@@ -1,7 +1,6 @@
 # layout-cards
 ## Projeto layout-cards
 
-![Angular](https://skillicons.dev/icons?i=angular)
 ![Scss](https://skillicons.dev/icons?i=scss)
 
 ## Tabela de conteúdos
